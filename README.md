@@ -8,6 +8,8 @@ Quick Guide
 --
 
 [1.Face synthesis](https://sites.google.com/site/avlabbenchmark/face-synthesis)
+[2.Face Segmentation](https://sites.google.com/site/avlabbenchmark/face-segmentation)
+[3.Illumination Cone](https://sites.google.com/site/avlabbenchmark/illumination-cone)
 
 
 We hope that the Face-Detection-Database database could revolutionized the landscape of heart rate detection research. A detailed introduction of Face-Detection-Database-Benchmark can be found in the [paper](https://ieeexplore.ieee.org/abstract/document/6522507).
@@ -62,6 +64,7 @@ No country or institution is excluded of any of the above restrictions. Failure 
 Download Link
 -
 [Face-Detection-Database-Benchmark Download Link](https://docs.google.com/file/d/0BwJ2me84dFHIQ0tvUDZPSHR2NGc/edit)
+[5 Dataset Images](https://docs.google.com/file/d/0BwJ2me84dFHITFIzWDhNeERtcnM/edit)
 
 
 
