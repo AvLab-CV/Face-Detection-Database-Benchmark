@@ -6,9 +6,30 @@ The images in face detection benchmark databases are mostly taken by consumer ca
 
 Face synthesis Quick Guide
 --
-  Please proceed the following steps to run this demo:
+    Please proceed the following steps to run this demo:
 
-  Set the following parameters in Exp3.m before executing it.
+   - **Set the following parameters in Exp3.m before executing it.** 
+    PIE_face_path (path to the cropped face images)
+
+    person (number of faces to be synthesized per image)
+
+    pose_distribution (IDs of pose in PIE)
+
+    illuminated_distribution (IDs of illumination condition in PIE)
+
+    %%%ORIENTATION PARAMETER
+
+    pdmax=25*(pi/180);
+
+    pdmin=-25*(pi/180);
+
+    %%%FACIAL SIZE
+
+    smax=0.2;
+
+    smin=0.1
+    
+    - **Execute Exp3.m, and input the number of background image.** 
 
 
 We hope that the Face-Detection-Database database could revolutionized the landscape of heart rate detection research. A detailed introduction of Face-Detection-Database-Benchmark can be found in the [paper](https://ieeexplore.ieee.org/abstract/document/6522507).
