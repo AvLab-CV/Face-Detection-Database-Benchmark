@@ -59,7 +59,7 @@ Face Segmentation Quick Guide
   
   ![Alt text](FS4.png?raw=true "Title")
   
-  - **When face detection succeeded, press “i” to operate under the Automatic Mode. ** 
+  - **When face detection succeeded, press “i” to operate under the Automatic Mode.** 
   
   ![Alt text](FS5.png?raw=true "Title")
   ![Alt text](FS6.png?raw=true "Title")
@@ -73,14 +73,14 @@ Face Segmentation Quick Guide
   ![Alt text](FS8.png?raw=true "Title")
   ![Alt text](FS9.png?raw=true "Title")
   
-  -**1.    Set a rectangular area around the face you want to segment.
-  -**2.    Mark some confirmed foreground and background pixels.
-  -**3.    Mark probable foreground and background pixels.
+  -**1.    Set a rectangular area around the face you want to segment.**
+  -**2.    Mark some confirmed foreground and background pixels.**
+  -**3.    Mark probable foreground and background pixels.**
   -**4.    Manual Segmentation Result**
   
   ![Alt text](FS10.png?raw=true "Title")
   
-  - **When “n” key is pressed, the current segmented face will be saved in the “Save_Result” folder and the next test image will be displayed.
+  - **When “n” key is pressed, the current segmented face will be saved in the “Save_Result” folder and the next test image will be displayed.**
   
   ![Alt text](FS11.png?raw=true "Title")
   
