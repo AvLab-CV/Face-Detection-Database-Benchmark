@@ -7,7 +7,7 @@ The images in face detection benchmark databases are mostly taken by consumer ca
 Quick Guide
 --
 
-[Face synthesis](./Face synthesis.docx)
+[1.Face synthesis](https://sites.google.com/site/avlabbenchmark/face-synthesis)
 
 
 We hope that the Pulse from face (Face-Detection-Database-Benchmark) database could revolutionized the landscape of heart rate detection research. A detailed introduction of Face-Detection-Database-Benchmark can be found in the [paper](https://ieeexplore.ieee.org/abstract/document/6522507).
