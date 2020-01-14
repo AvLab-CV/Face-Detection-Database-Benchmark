@@ -8,7 +8,9 @@ Quick Guide
 --
 
 [1.Face synthesis](https://sites.google.com/site/avlabbenchmark/face-synthesis)
+
 [2.Face Segmentation](https://sites.google.com/site/avlabbenchmark/face-segmentation)
+
 [3.Illumination Cone](https://sites.google.com/site/avlabbenchmark/illumination-cone)
 
 
