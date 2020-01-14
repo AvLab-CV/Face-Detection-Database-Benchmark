@@ -7,11 +7,9 @@ The images in face detection benchmark databases are mostly taken by consumer ca
 Quick Guide
 --
 
-1.[Face synthesis](https://sites.google.com/site/avlabbenchmark/face-synthesis)
-
-2.[Face Segmentation](https://sites.google.com/site/avlabbenchmark/face-segmentation)
-
-3.[Illumination Cone](https://sites.google.com/site/avlabbenchmark/illumination-cone)
+  1.[Face synthesis](https://sites.google.com/site/avlabbenchmark/face-synthesis) 
+  2.[Face Segmentation](https://sites.google.com/site/avlabbenchmark/face-segmentation) 
+  3.[Illumination Cone](https://sites.google.com/site/avlabbenchmark/illumination-cone)
 
 
 We hope that the Face-Detection-Database database could revolutionized the landscape of heart rate detection research. A detailed introduction of Face-Detection-Database-Benchmark can be found in the [paper](https://ieeexplore.ieee.org/abstract/document/6522507).
