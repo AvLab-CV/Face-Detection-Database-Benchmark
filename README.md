@@ -4,46 +4,10 @@ Gee-Sern Hsu , Tsu-Ying Chu
 
 The images in face detection benchmark databases are mostly taken by consumer cameras, and thus are constrained by popular preferences, including a frontal pose and balanced lighting conditions. A good face detector should consider beyond such constraints and work well for other types of images, for example, those captured by a surveillance camera. To overcome such constraints, a framework is proposed to transform a mother database, originally made for benchmarking face recognition, to daughter datasets that are good for benchmarking face detection.
 
-Face synthesis – Quick Guide
+Quick Guide
 --
 
-Please proceed the following steps to run this demo:
-
-
-- **1.   Set the following parameters in Exp3.m before executing it.**
-
-
-    PIE_face_path (path to the cropped face images)
-
-    person (number of faces to be synthesized per image)
-
-     pose_distribution (IDs of pose in PIE)
-
-     illuminated_distribution (IDs of illumination condition in PIE)
-
-     %%%ORIENTATION PARAMETER
-
-     pdmax=25*(pi/180);
-
-     pdmin=-25*(pi/180);
-
-     %%%FACIAL SIZE
-
-     smax=0.2;
-
-     smin=0.1
-
-- **2.   Execute Exp3.m, and input the number of background image.**
-
-     ![Alt text](ScreenClip.png?raw=true "Title")
-
-- **3.   Manually annotate the centers of faces to be synthesized.**
-
-     ![Alt text](5.jpg?raw=true "Title")
-
-- **4.   The synthesized images and corresponding face masks will be automatically saved in the ”result” folder. The file name will be saved as ”syn_X.jpg” and “gd_X.jpg”, where X is the background image    number. **
-
-     ![Alt text](6.jpg?raw=true "Title")
+[1.Face synthesis](./Face synthesis.docx)
 
 
 We hope that the Pulse from face (Face-Detection-Database-Benchmark) database could revolutionized the landscape of heart rate detection research. A detailed introduction of Face-Detection-Database-Benchmark can be found in the [paper](https://ieeexplore.ieee.org/abstract/document/6522507).
