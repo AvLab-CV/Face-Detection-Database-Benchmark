@@ -91,7 +91,18 @@ Face Segmentation Quick Guide
   
    -**Set the following parameters in run3.m before executing it.**
    Filename (images to load)
-   ![Alt text](FS11.png?raw=true "Title")
+   ![Alt text](IC.jpg?raw=true "Title")
+   save_path (directory to save result images)
+   width (image width)
+   height (image height)
+   
+   -**Execute run3.m. The result images with different illumination conditions will be automatically saved.**
+   
+   ![Alt text](IC1.jpg?raw=true "Title")
+   
+   Note: The setting of the light sources can be adjusted by modify this parameter:
+   
+   ![Alt text](IC2.jpg?raw=true "Title")
   
 We hope that the Face-Detection-Database database could revolutionized the landscape of heart rate detection research. A detailed introduction of Face-Detection-Database-Benchmark can be found in the [paper](https://ieeexplore.ieee.org/abstract/document/6522507).
 
