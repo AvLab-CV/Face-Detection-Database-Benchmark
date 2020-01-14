@@ -40,6 +40,16 @@ Face synthesis Quick Guide
    - **The synthesized images and corresponding face masks will be automatically saved in the ”result” folder. The file name will be saved as ”syn_X.jpg” and “gd_X.jpg”, where X is the background image    number.**
    
    ![Alt text](synthesized(1).jpg?raw=true "Title")
+   
+   
+Face Segmentation Quick Guide
+--
+  Please proceed the following steps to run this demo:
+  
+  - **Please unzip the file “Face_Segmentation.rar”. Then prepare a list of image path named as “Testing.txt” and put it under the directory of program.** 
+  
+  
+  
 
 
 We hope that the Face-Detection-Database database could revolutionized the landscape of heart rate detection research. A detailed introduction of Face-Detection-Database-Benchmark can be found in the [paper](https://ieeexplore.ieee.org/abstract/document/6522507).
