@@ -4,12 +4,11 @@ Gee-Sern Hsu , Tsu-Ying Chu
 
 The images in face detection benchmark databases are mostly taken by consumer cameras, and thus are constrained by popular preferences, including a frontal pose and balanced lighting conditions. A good face detector should consider beyond such constraints and work well for other types of images, for example, those captured by a surveillance camera. To overcome such constraints, a framework is proposed to transform a mother database, originally made for benchmarking face recognition, to daughter datasets that are good for benchmarking face detection.
 
-Quick Guide
+Face synthesis Quick Guide
 --
+  Please proceed the following steps to run this demo:
 
-  1. [Face synthesis](https://sites.google.com/site/avlabbenchmark/face-synthesis)                                                    
-  2. [Face Segmentation](https://sites.google.com/site/avlabbenchmark/face-segmentation)                                          
-  3. [Illumination Cone](https://sites.google.com/site/avlabbenchmark/illumination-cone)
+  Set the following parameters in Exp3.m before executing it.
 
 
 We hope that the Face-Detection-Database database could revolutionized the landscape of heart rate detection research. A detailed introduction of Face-Detection-Database-Benchmark can be found in the [paper](https://ieeexplore.ieee.org/abstract/document/6522507).
