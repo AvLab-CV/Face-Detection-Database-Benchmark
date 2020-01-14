@@ -6,7 +6,7 @@ The images in face detection benchmark databases are mostly taken by consumer ca
 
 Face synthesis Quick Guide
 --
-    Please proceed the following steps to run this demo:
+   Please proceed the following steps to run this demo:
 
    - **Set the following parameters in Exp3.m before executing it.** 
     PIE_face_path (path to the cropped face images)
@@ -29,7 +29,17 @@ Face synthesis Quick Guide
 
     smin=0.1
     
-    - **Execute Exp3.m, and input the number of background image.** 
+   - **Execute Exp3.m, and input the number of background image.** 
+   
+   ![Alt text](ScreenClip.png?raw=true "Title")
+   
+   - **Manually annotate the centers of faces to be synthesized.**
+   
+   ![Alt text](synthesized.jpg?raw=true "Title")
+   
+   - **The synthesized images and corresponding face masks will be automatically saved in the ”result” folder. The file name will be saved as ”syn_X.jpg” and “gd_X.jpg”, where X is the background image    number.**
+   
+   ![Alt text](synthesized(1).jpg?raw=true "Title")
 
 
 We hope that the Face-Detection-Database database could revolutionized the landscape of heart rate detection research. A detailed introduction of Face-Detection-Database-Benchmark can be found in the [paper](https://ieeexplore.ieee.org/abstract/document/6522507).
