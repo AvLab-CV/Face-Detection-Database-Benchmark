@@ -51,7 +51,7 @@ Update
 --
 |Date|Updata|
 |----|------|
-|2013-06-03|Face-Detection-Database-Benchmark dataset is composed and made available to the research community.|
+|2013-06-03|Face-Detection-Database-Benchmark is composed and made available to the research community.|
 
 
 Data Download 
