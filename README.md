@@ -1,6 +1,8 @@
-# Face-Detection-Database-Benchmark ([Website](https://sites.google.com/site/avlabbenchmark/))
+# A Framework for Making Face Detection Benchmark Databases ([Website](https://sites.google.com/site/avlabbenchmark/))
 
-Gee-Sern Hsu ; Tsu-Ying Chu
+Gee-Sern Hsu , Tsu-Ying Chu
+
+The images in face detection benchmark databases are mostly taken by consumer cameras, and thus are constrained by popular preferences, including a frontal pose and balanced lighting conditions. A good face detector should consider beyond such constraints and work well for other types of images, for example, those captured by a surveillance camera. To overcome such constraints, a framework is proposed to transform a mother database, originally made for benchmarking face recognition, to daughter datasets that are good for benchmarking face detection.
 
 Face synthesis – Quick Guide
 
@@ -46,7 +48,7 @@ Update
 --
 |Date|Updata|
 |----|------|
-|2018-01-14|Face-Detection-Database-Benchmark dataset is composed and made available to the research community.|
+|2013-06-03|Face-Detection-Database-Benchmark dataset is composed and made available to the research community.|
 
 
 Data Download 
@@ -98,5 +100,12 @@ Download Link
 Citation and Contact
 --
 If you like our work or find Face-Detection-Database-Benchmark dataset useful, please cite the following paper：
-
+```
+@article{hsu2013framework,
+  title={A framework for making face detection benchmark databases},
+  author={Hsu, Gee-Sern and Chu, Tsu-Ying},
+  journal={TCSVT},
+  year={2013},
+}
+```
 Any suggestion or comment would be valuable. Please send an email to corresponding author (Gee-Sern Hsu) or Database administrator.
