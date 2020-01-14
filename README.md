@@ -48,10 +48,42 @@ Face Segmentation Quick Guide
   
   - **Please unzip the file “Face_Segmentation.rar”. Then prepare a list of image path named as “Testing.txt” and put it under the directory of program.** 
   
+  ![Alt text](unzip.png?raw=true "Title")
   
+  - **Double click on Face_Segmentation.exe to execute.** 
   
+  ![Alt text](FS2.png?raw=true "Title")
+  ![Alt text](FS3.png?raw=true "Title")
+  
+  - **If the image exists, it will be displayed in the “Segment Image” window.** 
+  
+  ![Alt text](FS4.png?raw=true "Title")
+  
+  - **When face detection succeeded, press “i” to operate under the Automatic Mode. ** 
+  
+  ![Alt text](FS5.png?raw=true "Title")
+  ![Alt text](FS6.png?raw=true "Title")
+  
+  - **When the result of automatic segmentation is not satisfactory, you can add some background and foreground seeds to improve the performance.** 
 
-
+  ![Alt text](FS7.png?raw=true "Title")
+  
+  - **If the result is still not good, please press “r” to restore the image and switch to the Manual Mode.**
+  
+  ![Alt text](FS8.png?raw=true "Title")
+  ![Alt text](FS9.png?raw=true "Title")
+  
+  - **1.     Set a rectangular area around the face you want to segment.
+  - **2.     Mark some confirmed foreground and background pixels.
+  - **3.     Mark probable foreground and background pixels.
+  - **4.     Manual Segmentation Result**
+  
+  ![Alt text](FS10.png?raw=true "Title")
+  
+  - **When “n” key is pressed, the current segmented face will be saved in the “Save_Result” folder and the next test image will be displayed.
+  
+  ![Alt text](FS11.png?raw=true "Title")
+  
 We hope that the Face-Detection-Database database could revolutionized the landscape of heart rate detection research. A detailed introduction of Face-Detection-Database-Benchmark can be found in the [paper](https://ieeexplore.ieee.org/abstract/document/6522507).
 
 Update
