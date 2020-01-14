@@ -84,6 +84,15 @@ Face Segmentation Quick Guide
   
   ![Alt text](FS11.png?raw=true "Title")
   
+  Illumination Cone – Quick Guide
+  --
+  
+   Please proceed the following steps to run this demo:
+  
+   -**Set the following parameters in run3.m before executing it.**
+   Filename (images to load)
+   ![Alt text](FS11.png?raw=true "Title")
+  
 We hope that the Face-Detection-Database database could revolutionized the landscape of heart rate detection research. A detailed introduction of Face-Detection-Database-Benchmark can be found in the [paper](https://ieeexplore.ieee.org/abstract/document/6522507).
 
 Update
