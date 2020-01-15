@@ -6,7 +6,7 @@ The images in face detection benchmark databases are mostly taken by consumer ca
 
 Table of Contents
 --
-* [Quick Guide](#Quick Guide)
+* [Quick Guide](#Quick-Guide)
   * 1. [Face synthesis](#face-synthesis-quick-guide)
   * 2. [Face Segmentation](#Face-Segmentation-Quick-Guide)
   * 3. [Illumination Cone](#illumination-cone-quick-guide)
