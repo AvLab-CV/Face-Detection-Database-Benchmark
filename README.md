@@ -37,15 +37,20 @@ Face synthesis Quick Guide
     
    **2. Execute Exp3.m, and input the number of background image.** 
    
-   ![Alt text](image/ScreenClip.png?raw=true "Title")
-   
+<p align="left">
+	       <img src="image/ScreenClip.png">
+</p>
+  
    **3. Manually annotate the centers of faces to be synthesized.**
-   
-   ![Alt text](image/synthesized.jpg?raw=true "Title")
+<p align="center">
+	       <img src="image/synthesized.jpg">
+</p>
    
    **4. The synthesized images and corresponding face masks will be automatically saved in the ”result” folder. The file name will be saved as ”syn_X.jpg” and “gd_X.jpg”, where X is the background image    number.**
-   
-   ![Alt text](image/synthesized(1).jpg?raw=true "Title")
+<p align="center">
+	       <img src="image/synthesized(1).jpg">
+</p>
+
    
    
 Face Segmentation Quick Guide
