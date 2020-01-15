@@ -36,7 +36,7 @@ Face synthesis Quick Guide
 
     smin=0.1
     
-   - **2. Execute Exp3.m, and input the number of background image.** 
+    **2. Execute Exp3.m, and input the number of background image.** 
    
         ![Alt text](ScreenClip.png?raw=true "Title")
    
