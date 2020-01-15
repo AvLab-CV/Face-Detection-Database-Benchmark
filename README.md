@@ -22,15 +22,16 @@ Face synthesis Quick Guide
    Please proceed the following steps to run this demo:
 
    **1. Set the following parameters in Exp3.m before executing it.** 
-    
+   
     PIE_face_path (path to the cropped face images)
     person (number of faces to be synthesized per image)
     pose_distribution (IDs of pose in PIE)
     illuminated_distribution (IDs of illumination condition in PIE)
-    + %%%ORIENTATION PARAMETER
+     ```diff
+  + %%%ORIENTATION PARAMETER
     pdmax=25*(pi/180);
     pdmin=-25*(pi/180);
-    %%%FACIAL SIZE
+  + %%%FACIAL SIZE
     smax=0.2;
     smin=0.1
     
