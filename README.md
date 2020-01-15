@@ -19,7 +19,7 @@ Table of Contents
 
 Face synthesis Quick Guide
 --
-  #### Please proceed the following steps to run this demo:
+   Please proceed the following steps to run this demo:
 
    **1. Set the following parameters in Exp3.m before executing it.** 
     
