@@ -58,7 +58,7 @@ Face synthesis Quick Guide
    
 Face Segmentation Quick Guide
 --
-  #### Please proceed the following steps to run this demo:
+   Please proceed the following steps to run this demo:
   
    **1. Please unzip the file “Face_Segmentation.rar”. Then prepare a list of image path named as “Testing.txt” and put it under the directory of program.** 
   
@@ -73,8 +73,8 @@ Face Segmentation Quick Guide
   
    ![Alt text](image/FS4.png?raw=true "Title")
   
-  Automatic Mode
-  -------
+### Automatic Mode
+
   
   - **When face detection succeeded, press “i” to operate under the Automatic Mode.** 
    
@@ -88,8 +88,8 @@ Face Segmentation Quick Guide
 
       ![Alt text](image/FS7.png?raw=true "Title")
   
-  Manual Mode
-  -------
+  ### Manual Mode
+ 
   
   - **If the result is still not good, please press “r” to restore the image and switch to the Manual Mode.**
   
@@ -102,8 +102,8 @@ Face Segmentation Quick Guide
        ##### 4.   Manual Segmentation Result.
       ![Alt text](image/FS10.png?raw=true "Title")
   
-   Save Result
-   -------
+   ### Save Result
+   
   
   - **When “n” key is pressed, the current segmented face will be saved in the “Save_Result” folder and the next test image will be displayed.**
   
