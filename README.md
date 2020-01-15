@@ -4,11 +4,12 @@ Gee-Sern Hsu , Tsu-Ying Chu
 
 The images in face detection benchmark databases are mostly taken by consumer cameras, and thus are constrained by popular preferences, including a frontal pose and balanced lighting conditions. A good face detector should consider beyond such constraints and work well for other types of images, for example, those captured by a surveillance camera. To overcome such constraints, a framework is proposed to transform a mother database, originally made for benchmarking face recognition, to daughter datasets that are good for benchmarking face detection.
 
-Quick Guide
+Table of Contents
 --
- *1. [Face synthesis](#face-synthesis-quick-guide)
- *2. [Face Segmentation](#Face-Segmentation-Quick-Guide)
- *3. [Illumination Cone](#illumination-cone-quick-guide)
+*Quick Guide
+*1. [Face synthesis](#face-synthesis-quick-guide)
+*2. [Face Segmentation](#Face-Segmentation-Quick-Guide)
+*3. [Illumination Cone](#illumination-cone-quick-guide)
 
 Face synthesis Quick Guide
 --
