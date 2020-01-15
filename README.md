@@ -74,9 +74,9 @@ Face Segmentation Quick Guide
        ![Alt text](FS6.png?raw=true "Title")
  
   - **When the result of automatic segmentation is not satisfactory, you can add some background and foreground seeds to improve the performance.** 
-   - **1.  Automatic segmentation result**
-   - **2.  Mark some confirmed foreground pixels (red) and background pixels (blue)**
-   - **3.  Result after adding the constraints**
+     **1.  Automatic segmentation result**
+     **2.  Mark some confirmed foreground pixels (red) and background pixels (blue)**
+     **3.  Result after adding the constraints**
 
       ![Alt text](FS7.png?raw=true "Title")
   
