@@ -63,10 +63,17 @@ Face Segmentation Quick Guide
   
    **2. Double click on Face_Segmentation.exe to execute.** 
   
-   ![Alt text](image/FS2.png?raw=true "Title")
-   ![Alt text](image/FS3.png?raw=true "Title")
+   <p align="center">
+	       <img src="image/FS2.png">
+   </p>
+   <p align="center">
+	       <img src="image/FS3.png">
+   </p>
   
    **3. If the image exists, it will be displayed in the “Segment Image” window.** 
+   <p align="center">
+	       <img src="image/FS4.png">
+   </p>
   
    ![Alt text](image/FS4.png?raw=true "Title")
   
