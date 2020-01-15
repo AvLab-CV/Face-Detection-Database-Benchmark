@@ -12,7 +12,7 @@ Quick Guide
 
 Face synthesis Quick Guide
 --
-   Please proceed the following steps to run this demo:
+  # Please proceed the following steps to run this demo:
 
    **1. Set the following parameters in Exp3.m before executing it.** 
     
@@ -51,7 +51,7 @@ Face synthesis Quick Guide
    
 Face Segmentation Quick Guide
 --
-  Please proceed the following steps to run this demo:
+  # Please proceed the following steps to run this demo:
   
    **1. Please unzip the file “Face_Segmentation.rar”. Then prepare a list of image path named as “Testing.txt” and put it under the directory of program.** 
   
@@ -75,9 +75,9 @@ Face Segmentation Quick Guide
        ![Alt text](image/FS6.png?raw=true "Title")
  
   - **When the result of automatic segmentation is not satisfactory, you can add some background and foreground seeds to improve the performance.** 
-     **1.  Automatic segmentation result**
-     **2.  Mark some confirmed foreground pixels (red) and background pixels (blue)**
-     **3.  Result after adding the constraints**
+     ## 1.  Automatic segmentation result**
+     ## 2.  Mark some confirmed foreground pixels (red) and background pixels (blue)**
+     ## 3.  Result after adding the constraints**
 
       ![Alt text](image/FS7.png?raw=true "Title")
   
@@ -89,10 +89,10 @@ Face Segmentation Quick Guide
       ![Alt text](image/FS8.png?raw=true "Title")
       ![Alt text](image/FS9.png?raw=true "Title")
   
-       1.   Set a rectangular area around the face you want to segment.###
-       2.   Mark some confirmed foreground and background pixels.###
-       3.   Mark probable foreground and background pixels.###
-       4.   Manual Segmentation Result###
+       ## 1.   Set a rectangular area around the face you want to segment.
+       ## 2.   Mark some confirmed foreground and background pixels.
+       ## 3.   Mark probable foreground and background pixels.
+       ## 4.   Manual Segmentation Result###
       ![Alt text](image/FS10.png?raw=true "Title")
   
    Save Result
