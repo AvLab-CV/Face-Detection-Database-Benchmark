@@ -99,7 +99,7 @@ Face Segmentation Quick Guide
   
       ![Alt text](FS11.png?raw=true "Title")
   
-  Illumination Cone  Quick Guide
+  Illumination Cone Quick Guide
   --
   
    Please proceed the following steps to run this demo:
