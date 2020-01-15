@@ -67,6 +67,7 @@ Face Segmentation Quick Guide
    ![Alt text](image/FS4.png?raw=true "Title")
   
   Automatic Mode
+  -------
   
   - **When face detection succeeded, press “i” to operate under the Automatic Mode.** 
    
@@ -81,6 +82,7 @@ Face Segmentation Quick Guide
       ![Alt text](image/FS7.png?raw=true "Title")
   
   Manual Mode
+  -------
   
   - **If the result is still not good, please press “r” to restore the image and switch to the Manual Mode.**
   
@@ -94,6 +96,7 @@ Face Segmentation Quick Guide
       ![Alt text](image/FS10.png?raw=true "Title")
   
    Save Result
+   -------
   
   - **When “n” key is pressed, the current segmented face will be saved in the “Save_Result” folder and the next test image will be displayed.**
   
@@ -105,11 +108,14 @@ Face Segmentation Quick Guide
    Please proceed the following steps to run this demo:
   
    -**Set the following parameters in run3.m before executing it.**
-   Filename (images to load)
+   
+     Filename (images to load)
+   
    ![Alt text](image/IC.jpg?raw=true "Title")
-   save_path (directory to save result images)
-   width (image width)
-   height (image height)
+   
+      save_path (directory to save result images)
+      width (image width)
+      height (image height)
    
    -**Execute run3.m. The result images with different illumination conditions will be automatically saved.**
    
