@@ -38,7 +38,7 @@ Face synthesis Quick Guide
     
    **2. Execute Exp3.m, and input the number of background image.** 
    
-        ![Alt text](image/ScreenClip.png?raw=true "Title")
+        ![Alt text](https://github.com/HaoRecog/Face-Detection-Database-Benchmark/image/ScreenClip.png?raw=true "Title")
    
    **3. Manually annotate the centers of faces to be synthesized.**
    
