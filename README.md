@@ -27,11 +27,11 @@ Face synthesis Quick Guide
     person (number of faces to be synthesized per image)
     pose_distribution (IDs of pose in PIE)
     illuminated_distribution (IDs of illumination condition in PIE)
-     ```diff
-  + %%%ORIENTATION PARAMETER
+    ```diff
+   + %%%ORIENTATION PARAMETER
     pdmax=25*(pi/180);
     pdmin=-25*(pi/180);
-  + %%%FACIAL SIZE
+    + %%%FACIAL SIZE
     smax=0.2;
     smin=0.1
     
