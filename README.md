@@ -74,8 +74,7 @@ Face Segmentation Quick Guide
    <p align="center">
 	       <img src="image/FS4.png">
    </p>
-  
-   ![Alt text](image/FS4.png?raw=true "Title")
+
   
 ### Automatic Mode
 
