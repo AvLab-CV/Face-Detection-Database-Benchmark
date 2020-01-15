@@ -10,7 +10,12 @@ Table of Contents
   * 1. [Face synthesis](#face-synthesis-quick-guide)
   * 2. [Face Segmentation](#Face-Segmentation-Quick-Guide)
   * 3. [Illumination Cone](#illumination-cone-quick-guide)
-
+* [Update](#Update)
+* Data Download
+* How to get a Password
+* Restriction
+* Download Link
+* Citation and Contact
 Face synthesis Quick Guide
 --
   #### Please proceed the following steps to run this demo:
