@@ -8,7 +8,7 @@ Quick Guide
 --
  1. [Face synthesis](#face-synthesis-quick-guide)
  2. [Face Segmentation](#Face-Segmentation-Quick-Guide)
- 3. [Illumination Cone](#Illumination Cone – Quick Guide)
+ 3. [Illumination Cone](#Illumination-Cone-Quick Guide)
 
 Face synthesis Quick Guide
 --
