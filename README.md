@@ -32,15 +32,15 @@ Face synthesis Quick Guide
     
    - **2. Execute Exp3.m, and input the number of background image.** 
    
-   ![Alt text](ScreenClip.png?raw=true "Title")
+        ![Alt text](ScreenClip.png?raw=true "Title")
    
    - **3. Manually annotate the centers of faces to be synthesized.**
    
-   ![Alt text](synthesized.jpg?raw=true "Title")
+        ![Alt text](synthesized.jpg?raw=true "Title")
    
    - **4. The synthesized images and corresponding face masks will be automatically saved in the ”result” folder. The file name will be saved as ”syn_X.jpg” and “gd_X.jpg”, where X is the background image    number.**
    
-   ![Alt text](synthesized(1).jpg?raw=true "Title")
+        ![Alt text](synthesized(1).jpg?raw=true "Title")
    
    
 Face Segmentation Quick Guide
@@ -49,50 +49,49 @@ Face Segmentation Quick Guide
   
   - **1. Please unzip the file “Face_Segmentation.rar”. Then prepare a list of image path named as “Testing.txt” and put it under the directory of program.** 
   
-  ![Alt text](unzip.png?raw=true "Title")
+       ![Alt text](unzip.png?raw=true "Title")
   
   - **2. Double click on Face_Segmentation.exe to execute.** 
   
-  ![Alt text](FS2.png?raw=true "Title")
-  ![Alt text](FS3.png?raw=true "Title")
+       ![Alt text](FS2.png?raw=true "Title")
+       ![Alt text](FS3.png?raw=true "Title")
   
   - **3. If the image exists, it will be displayed in the “Segment Image” window.** 
   
-  ![Alt text](FS4.png?raw=true "Title")
+       ![Alt text](FS4.png?raw=true "Title")
   
   Automatic Mode
   
   - **When face detection succeeded, press “i” to operate under the Automatic Mode.** 
-  
-  ![Alt text](FS5.png?raw=true "Title")
-  ![Alt text](FS6.png?raw=true "Title")
+   
+       ![Alt text](FS5.png?raw=true "Title")
+       ![Alt text](FS6.png?raw=true "Title")
  
   - **When the result of automatic segmentation is not satisfactory, you can add some background and foreground seeds to improve the performance.** 
    - **1.  Automatic segmentation result**
    - **2.  Mark some confirmed foreground pixels (red) and background pixels (blue)**
    - **3.  Result after adding the constraints**
 
-  ![Alt text](FS7.png?raw=true "Title")
+      ![Alt text](FS7.png?raw=true "Title")
   
   Manual Mode
   
   - **If the result is still not good, please press “r” to restore the image and switch to the Manual Mode.**
   
-  ![Alt text](FS8.png?raw=true "Title")
-  ![Alt text](FS9.png?raw=true "Title")
+      ![Alt text](FS8.png?raw=true "Title")
+      ![Alt text](FS9.png?raw=true "Title")
   
   -**1.   Set a rectangular area around the face you want to segment.**
   -**2.   Mark some confirmed foreground and background pixels.**
   -**3.   Mark probable foreground and background pixels.**
   -**4.   Manual Segmentation Result**
-  
-  ![Alt text](FS10.png?raw=true "Title")
+      ![Alt text](FS10.png?raw=true "Title")
   
    Save Result
   
   - **When “n” key is pressed, the current segmented face will be saved in the “Save_Result” folder and the next test image will be displayed.**
   
-  ![Alt text](FS11.png?raw=true "Title")
+      ![Alt text](FS11.png?raw=true "Title")
   
   Illumination Cone – Quick Guide
   --
