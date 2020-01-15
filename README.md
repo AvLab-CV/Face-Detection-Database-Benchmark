@@ -6,16 +6,17 @@ The images in face detection benchmark databases are mostly taken by consumer ca
 
 Table of Contents
 --
-* Quick Guide
+* [Quick Guide](#Quick Guide)
   * 1. [Face synthesis](#face-synthesis-quick-guide)
   * 2. [Face Segmentation](#Face-Segmentation-Quick-Guide)
   * 3. [Illumination Cone](#illumination-cone-quick-guide)
 * [Update](#Update)
-* Data Download
-* How to get a Password
-* Restriction
-* Download Link
-* Citation and Contact
+* [Data Download](#Data Download)
+* [How to get a Password](#How to get a Password)
+* [Restriction](#Restriction)
+* [Download Link](#Download Link)
+* [Citation and Contact](#Citation and Contact)
+
 Face synthesis Quick Guide
 --
   #### Please proceed the following steps to run this demo:
@@ -182,6 +183,7 @@ No country or institution is excluded of any of the above restrictions. Failure 
 
 Download Link
 -
+This is Download Link of Test Image
 [Face-Detection-Database-Benchmark Download Link](https://docs.google.com/file/d/0BwJ2me84dFHIQ0tvUDZPSHR2NGc/edit)
 
 [5 Dataset Images](https://docs.google.com/file/d/0BwJ2me84dFHITFIzWDhNeERtcnM/edit)
