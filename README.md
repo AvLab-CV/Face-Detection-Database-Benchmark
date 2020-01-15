@@ -80,10 +80,10 @@ Face Segmentation Quick Guide
 
   
   - **When face detection succeeded, press “i” to operate under the Automatic Mode.** 
-   
-       ![Alt text](image/FS5.png?raw=true "Title")
-       ![Alt text](image/FS6.png?raw=true "Title")
- 
+    <p align="center">
+       <img src="image/FS5.png">
+       <img src="image/FS6.png">
+    </p>
   - **When the result of automatic segmentation is not satisfactory, you can add some background and foreground seeds to improve the performance.** 
      ##### 1.  Automatic segmentation result
      ##### 2.  Mark some confirmed foreground pixels (red) and background pixels (blue)
