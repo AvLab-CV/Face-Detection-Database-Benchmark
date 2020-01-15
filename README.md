@@ -11,11 +11,11 @@ Table of Contents
   * 2. [Face Segmentation](#Face-Segmentation-Quick-Guide)
   * 3. [Illumination Cone](#illumination-cone-quick-guide)
 * [Update](#Update)
-* [Data Download](#Data Download)
-* [How to get a Password](#How to get a Password)
+* [Data Download](#Data-Download)
+* [How to get a Password](#How-to-get-a-Password)
 * [Restriction](#Restriction)
-* [Download Link](#Download Link)
-* [Citation and Contact](#Citation and Contact)
+* [Download Link](#Download-Link)
+* [Citation and Contact](#Citation-and-Contact)
 
 Face synthesis Quick Guide
 --
