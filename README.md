@@ -28,7 +28,7 @@ Face synthesis Quick Guide
     pose_distribution (IDs of pose in PIE)
     illuminated_distribution (IDs of illumination condition in PIE)
    <font color="#f00">%%%ORIENTATION PARAMETER</font>
-    %%%ORIENTATION PARAMETER
+     %%%ORIENTATION PARAMETER
      pdmax=25*(pi/180);
      pdmin=-25*(pi/180);
      %%%FACIAL SIZE
