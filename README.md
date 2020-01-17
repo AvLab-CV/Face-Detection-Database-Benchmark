@@ -109,7 +109,8 @@ Face Segmentation Quick Guide
    <p align="center">
         <img src="image/FS10.png">
     </p>
-   ### Save Result
+
+ ### Save Result
    
   
   - **When “n” key is pressed, the current segmented face will be saved in the “Save_Result” folder and the next test image will be displayed.**
