@@ -27,13 +27,13 @@ Face synthesis Quick Guide
     person (number of faces to be synthesized per image)
     pose_distribution (IDs of pose in PIE)
     illuminated_distribution (IDs of illumination condition in PIE)
-   <font color="#f00">%%%ORIENTATION PARAMETER</font>
-     %%%ORIENTATION PARAMETER
-     pdmax=25*(pi/180);
-     pdmin=-25*(pi/180);
-     %%%FACIAL SIZE
-     smax=0.2;
-     smin=0.1
+    <font color="#f00"> %%%ORIENTATION PARAMETER </font>
+    %%%ORIENTATION PARAMETER
+    pdmax=25*(pi/180);
+    pdmin=-25*(pi/180);
+    %%%FACIAL SIZE
+    smax=0.2;
+    smin=0.1
     
    **2. Execute Exp3.m, and input the number of background image.** 
    
@@ -100,7 +100,19 @@ Face Segmentation Quick Guide
       <img src="image/FS8.png">
       <img src="image/FS9.png">
      </p>
-  
+|Method|image|
+|----|------|
+|1.   Set a rectangular area around the face you want to segment.  
+ 2.   Mark some confirmed foreground and background pixels.  
+ 3.   Mark probable foreground and background pixels.  
+ 4.   Manual Segmentation Result.  |  <img src="image/FS10.png">
+
+
+ 
+ 
+ 
+
+
        ##### 1.   Set a rectangular area around the face you want to segment.
        ##### 2.   Mark some confirmed foreground and background pixels.
        ##### 3.   Mark probable foreground and background pixels.
