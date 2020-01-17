@@ -3,14 +3,15 @@
 By Gee-Sern Hsu , Tsu-Ying Chu
 
 The images in face detection benchmark databases are mostly taken by consumer cameras, and thus are constrained by popular preferences, including a frontal pose and balanced lighting conditions. A good face detector should consider beyond such constraints and work well for other types of images, for example, those captured by a surveillance camera. To overcome such constraints, a framework is proposed to transform a mother database, originally made for benchmarking face recognition, to daughter datasets that are good for benchmarking face detection. The daughter datasets can be customized to meet the requirements of various performance criteria; therefore, a face detector can be better evaluated on desired datasets. 
-- **The framework is composed of two phases:**  
-intrinsic parametrization (IP) and extrinsic parametrization (EP).
-- **A few daughter datasets were designed with the following intrinsic parameters:** 
-1. Pose set 
-2. Illumination frontal set 
-3. Illumination downward set  
-4. Occlusion set  
-5. Orientation set.
+* The framework is composed of two phases:  
+  * intrinsic parametrization (IP) 
+  * extrinsic parametrization (EP).
+* A few daughter datasets were designed with the following intrinsic parameters:
+  * Pose set 
+  * Illumination frontal set 
+  * Illumination downward set  
+  * Occlusion set  
+  * Orientation set.
 
 Table of Contents
 --
