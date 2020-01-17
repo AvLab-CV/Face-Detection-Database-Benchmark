@@ -22,17 +22,17 @@ Face synthesis Quick Guide
    Please proceed the following steps to run this demo:
 
    **1. Set the following parameters in Exp3.m before executing it.** 
-   
-   PIE_face_path (path to the cropped face images)
-   person (number of faces to be synthesized per image)
-   pose_distribution (IDs of pose in PIE)
-   illuminated_distribution (IDs of illumination condition in PIE)
+    
+    PIE_face_path (path to the cropped face images)
+    person (number of faces to be synthesized per image)
+    pose_distribution (IDs of pose in PIE)
+    illuminated_distribution (IDs of illumination condition in PIE)
     <font color="red">%%%ORIENTATION PARAMETER</font>
-   pdmax=25*(pi/180);
-   pdmin=-25*(pi/180);
+    pdmax=25*(pi/180);
+    pdmin=-25*(pi/180);
     <font color="red">%%%FACIAL SIZE</font>
-   smax=0.2;
-   smin=0.1
+    smax=0.2;
+    smin=0.1
     
    **2. Execute Exp3.m, and input the number of background image.** 
    
@@ -88,15 +88,18 @@ Face Segmentation Quick Guide
      ##### 2.  Mark some confirmed foreground pixels (red) and background pixels (blue)
      ##### 3.  Result after adding the constraints
 
-      ![Alt text](image/FS7.png?raw=true "Title")
+      <p align="center">
+       <img src="image/FS7.png">
+    </p>
   
   ### Manual Mode
  
   
   - **If the result is still not good, please press “r” to restore the image and switch to the Manual Mode.**
-  
-      ![Alt text](image/FS8.png?raw=true "Title")
-      ![Alt text](image/FS9.png?raw=true "Title")
+  <p align="center">
+        <img src="image/FS8.png">
+	<img src="image/FS9.png">
+    </p>
   
        ##### 1.   Set a rectangular area around the face you want to segment.
        ##### 2.   Mark some confirmed foreground and background pixels.
