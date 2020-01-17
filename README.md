@@ -15,14 +15,14 @@ intrinsic parametrization (IP) and extrinsic parametrization (EP).
 Table of Contents
 --
 * [Quick Guide](#Quick-Guide)
-  * 1. [Face synthesis](#face-synthesis-quick-guide)
-  * 2. [Face Segmentation](#Face-Segmentation-Quick-Guide)
-  * 3. [Illumination Cone](#illumination-cone-quick-guide)
+  *  [Face synthesis](#face-synthesis-quick-guide)
+  *  [Face Segmentation](#Face-Segmentation-Quick-Guide)
+  *  [Illumination Cone](#illumination-cone-quick-guide)
 * [Update](#Update)
 * [Data Download](#Data-Download)
-* [How to get a Password](#How-to-get-a-Password)
-* [Restriction](#Restriction)
-* [Download Link](#Download-Link)
+  * [How to get a Password](#How-to-get-a-Password)
+  * [Restriction](#Restriction)
+  * [Download Link](#Download-Link)
 * [Citation and Contact](#Citation-and-Contact)
 
 Face synthesis Quick Guide
@@ -207,10 +207,10 @@ No country or institution is excluded of any of the above restrictions. Failure 
 
 Download Link
 -
-This is Download Link of Test Image <br>
+This is Download Link for Test Image <br>
 [Face-Detection-Database-Benchmark Download Link](https://docs.google.com/file/d/0BwJ2me84dFHIQ0tvUDZPSHR2NGc/edit)<br>
 
-This dataset about  1.Pose   2. Illumination-Frontal    3.Illumination-Downward    4.Occulsion    5.Orientation <br>
+This dataset includes  1.Pose   2. Illumination-Frontal    3.Illumination-Downward    4.Occulsion    5.Orientation <br>
 [5 Dataset Images](https://docs.google.com/file/d/0BwJ2me84dFHITFIzWDhNeERtcnM/edit)
 
 
