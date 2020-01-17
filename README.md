@@ -88,29 +88,35 @@ Face Segmentation Quick Guide
      ##### 1.  Automatic segmentation result
      ##### 2.  Mark some confirmed foreground pixels (red) and background pixels (blue)
      ##### 3.  Result after adding the constraints
-
-      ![Alt text](image/FS7.png?raw=true "Title")
-  
+     <p align="center">
+      <img src="image/FS7.png">
+     </p>
   ### Manual Mode
  
   
   - **If the result is still not good, please press “r” to restore the image and switch to the Manual Mode.**
   
-      ![Alt text](image/FS8.png?raw=true "Title")
-      ![Alt text](image/FS9.png?raw=true "Title")
+     <p align="center">
+      <img src="image/FS8.png">
+      <img src="image/FS9.png">
+     </p>
   
        ##### 1.   Set a rectangular area around the face you want to segment.
        ##### 2.   Mark some confirmed foreground and background pixels.
        ##### 3.   Mark probable foreground and background pixels.
        ##### 4.   Manual Segmentation Result.
-      ![Alt text](image/FS10.png?raw=true "Title")
+      <p align="center">
+      <img src="image/FS10.png">
+     </p>
   
    ### Save Result
    
   
   - **When “n” key is pressed, the current segmented face will be saved in the “Save_Result” folder and the next test image will be displayed.**
   
-      ![Alt text](image/FS11.png?raw=true "Title")
+       <p align="center">
+      <img src="image/FS11.png">
+     </p>
   
   Illumination Cone Quick Guide
   --
