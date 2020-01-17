@@ -115,8 +115,10 @@ Face Segmentation Quick Guide
    
   
   - **When “n” key is pressed, the current segmented face will be saved in the “Save_Result” folder and the next test image will be displayed.**
-  
-      ![Alt text](image/FS11.png?raw=true "Title")
+  <p align="center">
+	       <img src="image/FS11.png">
+ </p>
+      
   
   Illumination Cone Quick Guide
   --
@@ -126,20 +128,25 @@ Face Segmentation Quick Guide
    -**Set the following parameters in run3.m before executing it.**
    
      Filename (images to load)
-   
-   ![Alt text](image/IC.jpg?raw=true "Title")
+   <p align="center">
+	       <img src="image/IC.jpg">
+  </p>
+ 
    
       save_path (directory to save result images)
       width (image width)
       height (image height)
    
    -**Execute run3.m. The result images with different illumination conditions will be automatically saved.**
-   
-   ![Alt text](image/IC1.jpg?raw=true "Title")
+   <p align="center">
+	       <img src="image/IC1.jpg">
+  </p>
+  
    
    Note: The setting of the light sources can be adjusted by modify this parameter:
-   
-   ![Alt text](image/IC2.jpg?raw=true "Title")
+     <p align="center">
+	       <img src="image/IC2.jpg">
+  </p>
   
 We hope that the Face-Detection-Database database could revolutionized the landscape of heart rate detection research. A detailed introduction of Face-Detection-Database-Benchmark can be found in the [paper](https://ieeexplore.ieee.org/abstract/document/6522507).
 
