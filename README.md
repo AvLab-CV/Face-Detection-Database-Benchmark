@@ -84,31 +84,30 @@ Face Segmentation Quick Guide
        <img src="image/FS6.png">
     </p>
   - **When the result of automatic segmentation is not satisfactory, you can add some background and foreground seeds to improve the performance.** 
-     ##### 1.  Automatic segmentation result
-     ##### 2.  Mark some confirmed foreground pixels (red) and background pixels (blue)
-     ##### 3.  Result after adding the constraints
+     ###### 1.  Automatic segmentation result
+     ###### 2.  Mark some confirmed foreground pixels (red) and background pixels (blue)
+     ###### 3.  Result after adding the constraints
 
       <p align="center">
        <img src="image/FS7.png">
-    </p>
+      </p>
   
   ### Manual Mode
  
   
   - **If the result is still not good, please press “r” to restore the image and switch to the Manual Mode.**
-  <p align="center">
+    <p align="center">
         <img src="image/FS8.png">
 	<img src="image/FS9.png">
     </p>
   
-   ##### 1.   Set a rectangular area around the face you want to segment.
-   ##### 2.   Mark some confirmed foreground and background pixels.
-   ##### 3.   Mark probable foreground and background pixels.
-   ##### 4.   Manual Segmentation Result.
+   ###### 1.   Set a rectangular area around the face you want to segment.
+   ###### 2.   Mark some confirmed foreground and background pixels.
+   ###### 3.   Mark probable foreground and background pixels.
+   ###### 4.   Manual Segmentation Result.
    
    <p align="center">
         <img src="image/FS10.png">
-	
     </p>
    ### Save Result
    
