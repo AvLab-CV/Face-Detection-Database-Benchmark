@@ -102,10 +102,7 @@ Face Segmentation Quick Guide
      </p>
 |Method|image|
 |----|------|
-|1.   Set a rectangular area around the face you want to segment.  
- 2.   Mark some confirmed foreground and background pixels.  
- 3.   Mark probable foreground and background pixels.  
- 4.   Manual Segmentation Result.  |  <img src="image/FS10.png">
+|1.   Set a rectangular area around the face you want to segment.  2.   Mark some confirmed foreground and background pixels.  3.   Mark probable foreground and background pixels.  4.   Manual Segmentation Result.  |  <img src="image/FS10.png">
 
 
  
